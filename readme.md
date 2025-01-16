@@ -1,0 +1,1 @@
+Este projeto foi desenvolvido para a realização da segunda prova de introdução a inferência estatistica, foram desenvolvidos testes estatisticos e aplicados com relação aos dados propostos.
